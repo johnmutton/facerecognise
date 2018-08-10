@@ -1,0 +1,7 @@
+[0724/001434.710:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0724/170816.711:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0724/171444.026:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0724/171444.026:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0724/171444.026:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0724/171444.360:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: The specified information record length does not match the length required for the specified information class. (0xc0000004)
+[0724/171444.453:ERROR:crash_report_database_win.cc(428)] unexpected header
